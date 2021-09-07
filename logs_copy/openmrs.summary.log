@@ -1,0 +1,24 @@
+06-09-2021 23:21:45 [WARN ] RefillIdentifierPoolsTask - Not running scheduled task. DaemonToken = null; enabled = false
+06-09-2021 23:21:49 [WARN ] SimpleUrlHandlerMapping - Neither 'urlMap' nor 'mappings' set on SimpleUrlHandlerMapping
+06-09-2021 23:22:07 [WARN ] AddressConfigurationLoader - The address field 'POSTAL_CODE' provided by the configuration doesn't match any existing address level.
+06-09-2021 23:22:07 [WARN ] AddressConfigurationLoader - The exisiting address and address hierarchy configuration is being wiped.
+06-09-2021 23:22:08 [WARN ] AddressConfigurationLoader - Deleting existing address hierarchy entries
+06-09-2021 23:22:10 [INFO ] EncounterTypesLoader - Attempting to process 22 CSV lines that have not been processed yet...
+06-09-2021 23:22:10 [INFO ] EncounterTypesLoader - encountertypes.csv ('encountertypes' domain) was entirely successfully processed.
+06-09-2021 23:22:10 [INFO ] EncounterTypesLoader - 22 entities were saved.
+06-09-2021 23:22:10 [INFO ] GlobalPropertiesLoader - Saving the global properties.
+06-09-2021 23:22:10 [INFO ] LocationsLoader - Attempting to process 23 CSV lines that have not been processed yet...
+06-09-2021 23:22:11 [INFO ] LocationsLoader - locations.csv ('locations' domain) was entirely successfully processed.
+06-09-2021 23:22:11 [INFO ] LocationsLoader - 23 entities were saved.
+06-09-2021 23:22:11 [INFO ] ConceptsLoader - Attempting to process 2 CSV lines that have not been processed yet...
+06-09-2021 23:22:12 [INFO ] ConceptsLoader - 1040_ANC_initial.csv ('concepts' domain) was entirely successfully processed.
+06-09-2021 23:22:12 [INFO ] ConceptsLoader - 2 entities were saved.
+06-09-2021 23:22:12 [INFO ] ConceptsLoader - Attempting to process 1177 CSV lines that have not been processed yet...
+06-09-2021 23:23:34 [INFO ] ConceptsLoader - ADDED_BY_MARY.210504_0633.UUIDs.csv ('concepts' domain) was entirely successfully processed.
+06-09-2021 23:23:34 [INFO ] ConceptsLoader - 1177 entities were saved.
+06-09-2021 23:23:34 [INFO ] PersonAttributeTypesLoader - Attempting to process 98 CSV lines that have not been processed yet...
+06-09-2021 23:23:36 [INFO ] PersonAttributeTypesLoader - personattributetypes.csv ('personattributetypes' domain) was entirely successfully processed.
+06-09-2021 23:23:36 [INFO ] PersonAttributeTypesLoader - 98 entities were saved.
+06-09-2021 23:23:36 [INFO ] InitializerActivator - Start of initializer module.
+06-09-2021 23:23:36 [WARN ] OpenmrsUtil - Unable to find a runtime properties file at /openmrs-runtime.properties
+06-09-2021 23:23:37 [WARN ] OpenmrsUtil - Unable to find a runtime properties file at /openmrs-runtime.properties

@@ -1,0 +1,6 @@
+:g /^	at /d
+:g /^	\.\.\. .* more *$/d
+:g /^Caused by:/d
+:g /Connection to http:..localhost:8052 refused$/d
+:g /^..-..-.... ..:..:.. .WARN . DefaultListableBeanFactory - Bean creation exception on FactoryBean type check: org.springframework.beans.factory.BeanCreationException: Error creating bean with name/d
+:g /^..-..-.... ..:..:.. .ERROR. TimerSchedulerTask - FATAL ERROR: Task .class org.openmrs.scheduler.tasks.TaskThreadedInitializationWrapper. failed due to exception .java.lang.RuntimeException./d
